@@ -9,7 +9,7 @@ spring:
     name: microservicecloud-config-exer-dev
 ---
 spring:
-  profiles: dev
+  profiles: test
   application:
     name: microservicecloud-config-exer-test
 #请保存为UTF-8格式
